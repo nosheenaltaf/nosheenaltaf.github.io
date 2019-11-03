@@ -12,7 +12,7 @@
 
 ### Deep Learning
 
-- [Project 1 Coming Soon](http://example.com/)
+- [Project 2 Coming Soon](http://example.com/)
 
 ---
 
