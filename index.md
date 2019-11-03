@@ -5,7 +5,7 @@
 ### Natural Language Processing 
 
 [Project 1 Coming Soon](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/p1.jpg?raw=true"/>
 
 
 ---
