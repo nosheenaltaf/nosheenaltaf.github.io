@@ -5,20 +5,20 @@
 ### Natural Language Processing 
 
 [Project 1 Coming Soon](/sample_page)
-<img src="images/p1.jpg?raw=true"/>
+<img src="images/pic_1.PNG?raw=true"/>
 
 
 ---
 
-### Deep Learning
+### Principal Component Analysis
 
 - [Project 2 Coming Soon](http://example.com/)
 
 ---
 
+### Deep Learning
 
+- [Project 3 Coming Soon](http://example.com/)
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
