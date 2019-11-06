@@ -12,13 +12,13 @@
 
 ### Principal Component Analysis
 
-- [Project 2 Coming Soon](http://example.com/)
+- [Project 2 Coming Soon](/pdf/sample)
 
 ---
 
 ### Deep Learning
 
-- [Project 3 Coming Soon](http://example.com/)
+- [Project 3 Coming Soon](/pdf/sample)
 
 
 ---
