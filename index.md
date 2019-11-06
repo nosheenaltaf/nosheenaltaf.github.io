@@ -4,7 +4,7 @@
 
 ### Natural Language Processing 
 
-[Project 1 Coming Soon](/sample_page)
+[Project 1: Classification of Customer Reviews on a Product](/GitHub_NLP_P1.html)
 <img src="images/pic_1.PNG?raw=true"/>
 
 
