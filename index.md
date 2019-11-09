@@ -10,13 +10,13 @@
 
 ---
 
-### Principal Component Analysis
+### Deep Learning with TensorFlow 2.0 in Python
 
-- [Project 2 Coming Soon]()
+- [Project 2: Image Classification with MNIST Dataset](/DL/DL_TF2.0_1.html)
 
 ---
 
-### Deep Learning
+### Time Series Analysis
 
 - [Project 3 Coming Soon]()
 
