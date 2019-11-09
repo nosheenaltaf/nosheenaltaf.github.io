@@ -12,13 +12,13 @@
 
 ### Deep Learning with TensorFlow 2.0 in Python
 
-- [Project 2: Image Classification with MNIST Dataset](/DL/DL_TF2.0_1.html)
-
+[Project 2: Image Classification with MNIST Dataset](/DL/DL_TF2.0_1.html)
+<img src="images/p2.PNG?raw=true"/>
 ---
 
 ### Time Series Analysis
 
-- [Project 3 Coming Soon]()
+[Project 3 Coming Soon]()
 
 
 ---
