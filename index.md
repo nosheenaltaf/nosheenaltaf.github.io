@@ -19,7 +19,7 @@
 ### Time Series Analysis
 
 [Project 3: Demand Forecasting Model for Hotel Booking](/TSA/TSA.html)
-<img src="images/p4.PNG?raw=true"/>
+<img src="images/p4_1.PNG?raw=true"/>
 
 ---
 
