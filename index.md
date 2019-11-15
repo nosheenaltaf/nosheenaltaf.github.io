@@ -18,7 +18,7 @@
 
 ### Time Series Analysis
 
-[Project 3 Coming Soon]()
+[Project 3: Demand Forecasting Model for Hotel Booking]()
 
 ---
 
