@@ -23,8 +23,9 @@
 
 ---
 
-### Factor Analysis vs Cluster Analysis
+### Exploratory Data Analysis and Visualization 
 
-[Project 4 Coming Soon]()
+[Project 4: Gapminder Data Analysis with Python](/EDA/EDA.html)
+<img src="images/eda.PNG?raw=true"/>
 
 ---
