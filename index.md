@@ -9,12 +9,12 @@
 ---
 ### Time Series Analysis
 [Project 2: Demand Forecasting Model for Hotel Booking](/TSA/TSA.html)
-<img src="images/p4_1.PNG" width="500" height="250">
+<img src="images/p4_1.PNG" width="475" height="250">
 
 ---
 ### Natural Language Processing 
 [Project 3: Classification of Customer Reviews on a Product](/NLP/GitHub_NLP_P1.html)
-<img src="images/pic_1.PNG" width="450" height="200">
+<img src="images/pic_1.PNG" width="475" height="200">
 
 ---
 ### Deep Learning with TensorFlow 2.0 in Python
