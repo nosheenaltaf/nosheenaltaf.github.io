@@ -9,7 +9,7 @@
 ---
 ### Time Series Analysis
 [Project 2: Demand Forecasting Model for Hotel Booking](/TSA/TSA.html)
-<img src="images/p4_1.PNG" width="450" height="200">
+<img src="images/p4_1.PNG" width="500" height="250">
 
 ---
 ### Natural Language Processing 
