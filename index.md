@@ -14,7 +14,7 @@
 ---
 ### Natural Language Processing 
 [Project 3: Classification of Customer Reviews on a Product](/NLP/GitHub_NLP_P1.html)
-<img src="images/pic_1.PNG?raw=true"/>
+<img src="images/pic_1.PNG" width="450" height="200">
 
 ---
 ### Deep Learning with TensorFlow 2.0 in Python
