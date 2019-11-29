@@ -4,7 +4,7 @@
 
 ### Dealing with Unlabeled Data 
 [Project 1: K-Means Clustering with Python](/KM/KMeans.html)
-<img src="images/km3.PNG" width="500" height="200">
+<img src="images/km3.PNG" width="450" height="200">
 
 ---
 ### Time Series Analysis
