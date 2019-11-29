@@ -8,8 +8,8 @@
 
 ---
 ### Time Series Analysis
-[Project 2: Demand Forecasting Model for Hotel Booking](/TSA/TSA.html)
-<img src="images/p4_1.PNG" width="475" height="250">
+[Project 2: Demand Forecasting Model with Python](/TSA/TSA.html)
+<img src="images/p4_1.PNG" width="460" height="250">
 
 ---
 ### Natural Language Processing 
