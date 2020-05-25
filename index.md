@@ -27,3 +27,8 @@
 <img src="images/eda.PNG?raw=true"/>
 
 ---
+### Tree-Based Methods 
+[Project 6: Multi-Label Classification with Python](/CART/CART.html)
+<img src="images/tm1.PNG?raw=true"/>
+
+---
